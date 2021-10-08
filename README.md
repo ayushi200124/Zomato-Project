@@ -1,0 +1,2 @@
+# Zomato-Project
+Predictive model using Machine Learning.                                    Performed Data Cleaning, Data visualization, Geographical analysis, WordCloud and Feature encoding.                                                           Algorithms like Random Forest, Decision Tree, Naïve Bayes, KNN, Logistic Regression used for the implementation of ensemble learning.                                                                
